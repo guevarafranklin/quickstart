@@ -25,7 +25,7 @@ author = "Franklin Guevara"
 description = "Call me Frank"
 profilePicture = "images/me.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/favicon-16x16.png"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
