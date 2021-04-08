@@ -1,23 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
+description = "I'm a technology enthusiast, a leader in teck industry"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Franklin Guevara"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I am passionate and experienced business leader in software development, information security, and IT infrastructure.
 
-Hugo makes use of a variety of open source projects including:
+As ITO Director, My Role is to lead the Information Technology Outsource services provided to our clients. We hired High level IT professionals that provide services as Software Development, Software QA, Implementation and Deployment Software.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I'm leading a large group of IT professionals that are amazing people. Together we work hard every day in order to succeed in all KPI established. 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+    
+Learn more about me on [Linkdein.com](https://www.linkedin.com/in/franklin-guevara-20566875/).
