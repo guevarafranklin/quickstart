@@ -27,11 +27,11 @@ profilePicture = "images/shortme.png"
 keywords = ""
 favicon = "favicons/favicon-16x16.png"
 # example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
+customCss = customCss = ["css/style.css", "css/markupHighlight.css"]
+# example ["js/anatole-header.js", "anatole-theme-switcher.js", "medium-zoom.js"]
+customJs = ["js/anatole-header.js", "anatole-theme-switcher.js", "medium-zoom.js"] 
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
+#images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/mgerelgb"
