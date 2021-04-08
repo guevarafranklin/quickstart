@@ -25,7 +25,7 @@ author = "Franklin Guevara"
 description = "Technology Enthusiast"
 profilePicture = "images/shortme.png"
 keywords = ""
-favicon = "favicons/favicon-16x16.png"
+favicon = "favicons/favicon.ico"
 # example ["css/custom.css"]
 customCss = ["css/style.css", "css/markupHighlight.css"]
 # example ["js/anatole-header.js", "anatole-theme-switcher.js", "medium-zoom.js"]
