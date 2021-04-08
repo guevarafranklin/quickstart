@@ -27,7 +27,7 @@ profilePicture = "images/shortme.png"
 keywords = ""
 favicon = "favicons/favicon-16x16.png"
 # example ["css/custom.css"]
-customCss = customCss = ["css/style.css", "css/markupHighlight.css"]
+customCss = ["css/style.css", "css/markupHighlight.css"]
 # example ["js/anatole-header.js", "anatole-theme-switcher.js", "medium-zoom.js"]
 customJs = ["js/anatole-header.js", "anatole-theme-switcher.js", "medium-zoom.js"] 
 mainSections = ["post"]
